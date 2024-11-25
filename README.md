@@ -91,10 +91,6 @@ mtd -r write /tmp/breed.bin Bootloader
 
 后台设定就不一一介绍了。
 
-## 赞赏
 
-如果你觉得我的教学有用的话，欢迎使用微信赞赏。您的支持，是我最大的鼓励。
-
-![赞赏](./reward.jpg)
 
 
